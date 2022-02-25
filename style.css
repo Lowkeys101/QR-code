@@ -8,7 +8,6 @@ body {
     display: grid;
     align-content: center;
     justify-items: center;
-    border: 3px solid red;
 }
 
 .wrapper {
